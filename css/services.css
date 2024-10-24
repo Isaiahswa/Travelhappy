@@ -1,0 +1,57 @@
+#heading1{
+    text-align: center;
+}
+.paragraph{
+ font-family: "Arial Black";
+    font-size: 18px;
+
+}
+#mydivision{
+    background-color: dodgerblue;
+    margin: 50px;
+    padding: 30px;
+}
+#mydivision h1{
+    color: white;
+    text-align: center;
+}
+#division2{
+    display: flex;
+    background-color: lightgray;
+    margin: 50px;
+    padding: 30px;
+    color: white;
+}
+#division2 img{
+    margin-right: 50px;
+    border-radius: 30px;
+}
+#main{
+    display: flex;
+    background-color: gray;
+}
+#advertisement{
+    background-color: red;
+    color: white;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 8px 4px gray;
+}
+#accounting{
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 8px 4px gray;
+}
+#payment{
+background-color: green;
+    color: white;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 8px 4px gray;
+
+}
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: gray;
+}
